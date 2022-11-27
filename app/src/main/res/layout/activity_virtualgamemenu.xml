@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity.MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/bcgnd" />
+
+    <ImageView
+        android:id="@+id/imageView55"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/lsticn" />
+
+    <TextView
+        android:id="@+id/textView222"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/glgregular"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="5dp"
+        android:text="THE LAST CHALLENGE"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView2"
+        app:layout_constraintStart_toEndOf="@+id/imageView55"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/bcgnd" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView4"
+        app:layout_constraintTop_toBottomOf="@+id/textView4">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/quiz"
+                android:layout_width="match_parent"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginTop="20dp"
+                android:layout_height="wrap_content"
+                android:background="@color/brown"
+                android:fontFamily="@font/glgregular"
+                android:gravity="center"
+                android:text="QUIZ"
+                android:textColor="@color/white"
+                android:textSize="33sp" />
+
+            <Button
+                android:id="@+id/draw"
+
+                android:layout_width="match_parent"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginTop="20dp"                android:layout_height="wrap_content"
+                android:background="@color/brown"
+                android:fontFamily="@font/glgregular"
+                android:gravity="center"
+                android:text="Drawing Game"
+                android:textColor="@color/white"
+                android:textSize="33sp" />
+
+            <Button
+                android:id="@+id/button2"
+
+                android:layout_width="match_parent"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginTop="20dp"                android:layout_height="wrap_content"
+                android:background="@color/brown"
+                android:fontFamily="@font/glgregular"
+                android:gravity="center"
+                android:text="FORBIDDEN WORDS"
+                android:textColor="@color/white"
+                android:textSize="33sp" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/brown"
+                android:fontFamily="@font/glgregular"
+                android:gravity="center"
+                android:text="Mimicry"
+                android:textColor="@color/white"
+                android:textSize="33sp" />
+
+            <Button
+                android:id="@+id/Songs"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/brown"
+                android:fontFamily="@font/glgregular"
+                android:gravity="center"
+                android:text="Songs"
+                android:textColor="@color/white"
+                android:textSize="33sp" />
+
+
+            <Button
+                android:id="@+id/theLetter"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/brown"
+                android:fontFamily="@font/glgregular"
+                android:gravity="center"
+                android:text="The Letter"
+                android:textColor="@color/white"
+                android:textSize="33sp" />
+
+            <Button
+                android:id="@+id/laughWars"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/brown"
+                android:fontFamily="@font/glgregular"
+                android:gravity="center"
+                android:text="Laugh Wars"
+                android:textColor="@color/white"
+                android:textSize="33sp" />
+
+            <Button
+                android:id="@+id/strungWords"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/brown"
+                android:fontFamily="@font/glgregular"
+                android:gravity="center"
+                android:text="Strung Words"
+                android:textColor="@color/white"
+                android:textSize="33sp" />
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/glgregular"
+        android:gravity="center"
+        android:text="Virtual games"
+        android:textColor="@color/lightbrown"
+        android:textSize="44sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/qresources"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/qimageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/bcgnd" />
+
+    <ImageView
+        android:id="@+id/qimageView3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/bcgd" />
+
+    <ImageView
+        android:id="@+id/qimageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        app:layout_constraintBottom_toBottomOf="@+id/qimageView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/bcgnd" />
+
+
+    <ImageView
+        android:id="@+id/qimageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintBottom_toBottomOf="@+id/qimageView2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/lsticn" />
+
+    <TextView
+        android:id="@+id/qtextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:fontFamily="@font/glgregular"
+        android:layout_marginEnd="5dp"
+        android:text="THE LAST CHALLENGE"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="@+id/qimageView2"
+        app:layout_constraintEnd_toEndOf="@+id/qimageView2"
+        app:layout_constraintStart_toEndOf="@+id/qimageView5"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/qimageView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="45dp"
+        app:layout_constraintBottom_toTopOf="@+id/qimageView4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/qtextView20"
+        app:srcCompat="@drawable/rectbrown" />
+
+    <TextView
+        android:id="@+id/qtextView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/glgregular"
+        android:text="Forbidden Words"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="@+id/qimageView"
+        app:layout_constraintStart_toStartOf="@+id/qimageView"
+        app:layout_constraintTop_toBottomOf="@+id/qimageView2" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/qbutton6"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/lightrect"
+        android:fontFamily="@font/glgregular"
+        android:text="Done"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="@+id/qimageView"
+        app:layout_constraintStart_toStartOf="@+id/qimageView"
+        app:layout_constraintTop_toBottomOf="@+id/qimageView" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/qbutton8"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/lightrect"
+        android:text="Add Words"
+        android:fontFamily="@font/glgregular"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="@+id/qbutton6"
+        app:layout_constraintStart_toStartOf="@+id/qbutton6"
+        app:layout_constraintTop_toBottomOf="@+id/qbutton6" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/qrvvv77"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintBottom_toBottomOf="@+id/qimageView"
+        app:layout_constraintEnd_toEndOf="@+id/qimageView"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/qimageView"
+        app:layout_constraintTop_toTopOf="@+id/qimageView"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

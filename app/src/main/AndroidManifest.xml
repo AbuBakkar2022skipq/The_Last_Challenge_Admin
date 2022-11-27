@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.thelastchallengeadmin" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TheLastChallengeAdmin" >
+        <activity
+            android:name=".vrgame.ForbiddenWords.ForbiddenWordsGameEdit.forbiddenWordsGameEdit"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+        <activity
+            android:name=".vrgame.ForbiddenWords.RecyclerViewForbiddenWords.selectForbiddenWords"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false"
+            android:theme="@style/Theme.TheLastChallengeAdmin.NoActionBar" />
+        <activity
+            android:name=".vrgame.ForbiddenWords.EditForbiddenWords.editForbiddenWords"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+        <activity
+            android:name=".vrgame.ForbiddenWords.forbiddenwordsmenu"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+        <activity
+            android:name=".vrgame.Mimicry.EditGame.SelectResources.selectWords"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+        <activity
+            android:name=".vrgame.Mimicry.EditGame.mimicryEditGame"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+        <activity
+            android:name=".vrgame.QuizGame.QuizgameMenu"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+        <activity
+            android:name=".vrgame.QuizGame.AddQuestion.QuizGameAddQuestion"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+        <activity
+            android:name=".vrgame.QuizGame.EditDetails.QuizGameDetailsEdit"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+        <activity
+            android:name=".vrgame.QuizGame.EditQuestion.QuizGameEditQuestion"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+        <activity
+            android:name=".vrgame.QuizGame.EditQuestion.QuizgameQuestionsView"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+        <activity
+            android:name=".vrgame.Mimicry.Words.words"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+        <activity
+            android:name=".vrgame.Mimicry.MimicryMenu"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+        <activity
+            android:name=".vrgame.virtualgamemenu"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+
+        <activity
+            android:name=".Punishments.AddPunishments.AddPunishments"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+
+        <activity
+            android:name=".Punishments.EditPunishments.EditPunishments"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+
+        <activity
+            android:name=".Punishments.PunishmentsMenu"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+
+        <activity
+            android:name=".GameManagement.managegamepagepunishment"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false" />
+
+        <activity
+            android:name=".AddGameRecyclerView.finpagefromrv"
+            android:exported="false"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".addGame.physicalgamespage"
+            android:exported="false"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".AddGameRecyclerView.add_game_from_rv"
+            android:exported="false"
+            android:label="@string/title_activity_add_game_from_rv"
+            android:theme="@style/Theme.TheLastChallengeAdmin.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".MainActivity.MainActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".resourceAddition.add_resources"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".SelectResources.selectResources"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".AddGameRecyclerView.resources.addResourcess"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".addGame.addpunishment"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".addGame.finalpage"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".vrgame.DrawingGame.drawingGame"
+            android:windowSoftInputMode="adjustPan" />
+
+        <activity
+            android:name=".vrgame.DrawingGame.DrawingGameWords.drawGameWordsList"
+            android:windowSoftInputMode="adjustPan" />
+
+        <activity
+            android:name=".vrgame.DrawingGame.EditGameDetails.EditDrawingGameDetails"
+            android:windowSoftInputMode="adjustPan" />
+
+        <activity
+            android:name=".vrgame.Songs.SongList.songlist"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".vrgame.Songs.SongsGameMenu"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".vrgame.TheLetter.TheLetterDetailsEdit"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".vrgame.LaughWars.LaughWarsMenu"
+            android:windowSoftInputMode="adjustPan" />
+
+        <activity
+            android:name=".vrgame.StrungWords.StrungWordsMenu"
+            android:windowSoftInputMode="adjustPan" />
+
+        <activity
+            android:name=".vrgame.StrungWords.StrungWordsEditGame.StrungWords"
+            android:windowSoftInputMode="adjustPan" />
+
+        <activity
+            android:name=".vrgame.StrungWords.StrungWordsWordsList.StrungWordsWordsList"
+            android:windowSoftInputMode="adjustPan" />
+
+        <activity
+            android:name=".vrgame.Songs.SongDetails.SongDetails"
+            android:windowSoftInputMode="adjustPan" />
+
+
+    </application>
+
+</manifest>

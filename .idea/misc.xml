@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/drawable/active.xml" value="0.2175" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/drawable/inactive.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/drawable/rectbluestroke.xml" value="0.2175" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_add_game_from_rv.xml" value="0.152" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_add_vr_game.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_addresourcesfromrv.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_bottomsheet_edit_word.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_edit_forbidden_words.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_edit_forbidden_words_game.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_finpagefromrv.xml" value="0.4" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_forbidden_words_game_edit.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_forbiddenwords.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_mimicry.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_mimicry_edit_game.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_mimicry_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_new_game_mimicry.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_new_vr_game_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_select_words.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_virtualgamemenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/activity_words.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/add_punishments.xml" value="0.12" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/add_resources.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/add_resources_rv_resource.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/addpunishment.xml" value="0.176" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/addquestion_layout.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/bottom_sheet_add_resource.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/bottom_sheet_edit_drawing_game_words.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/bottom_sheet_for_forbidden_words.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/bottomsheet_add_song.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/bottomsheet_add_words.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/bottomsheetaddresourcerecycleview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/bottomsheetforwordsedit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/bottosheet_add_forbidden_words.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/bottosheet_addd_forbidden_words.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/challengeexplain.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/challengepage.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/challengesettings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/checkteamname.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/draw_game_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/drawgamerecyclerviewresource_wrt_draw_game.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/drawing_game_words_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/editdrawinggame.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/finalpage.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/fragment_addresources.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/fragment_first.xml" value="0.3375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/fragment_first2.xml" value="0.3375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/fragment_second.xml" value="0.3375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/fragment_second2.xml" value="0.3375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/game_details_edit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/gameview.xml" value="0.4" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/layout_questiondata_recyclerview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/managegame_page1.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/physicalgames.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/punishments_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/punishments_recyclerview_resouce.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/quiz_game_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/quiz_game_view_questions.xml" value="0.16376306620209058" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/quizgamedetailsedit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/recyclerview_add_andedit_resource_resource.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/recyclerview_resource_wrt_drawing_game.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/recyclerview_resource_wrt_words.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/roundpage.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/select_forbidden_words.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/selectresources.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/selectresources_resource_wrt_add_punishment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/selectwords_resource.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/song_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/songs_game_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/teamdraw.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/layout/winnerhallenge.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TheLastChallengeAdmin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1895" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
